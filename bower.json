@@ -1,0 +1,32 @@
+{
+  "name": "blank-css-tables",
+  "version": "0.1.0",
+  "description": "tables styling for blank-css",
+  "main": "tables.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-global-tables",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "tables"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "blank-css-config": "~0.1.0",
+    "blank-css-rem": "~0.1.0"
+  }
+}
